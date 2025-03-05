@@ -2,6 +2,7 @@
 > — Nicolas Findler
 
 I am a researcher in computational linguistics and natural language processing.
+
 My [PhD topic](https://hlt.bme.hu/en/publ/makrai-24-phd-official) was to
 hybridize distributional word representations with symbolic information.
 My background spans
